@@ -1,3 +1,7 @@
 Esto seria el primer codigo de prueba
 
+<<<<<<< HEAD
 Modificacion1 Walter
+=======
+Modificacion1Ma
+>>>>>>> df4f0c93a23b6185f1d6de821935cd3924c0ae66
